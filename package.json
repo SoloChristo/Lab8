@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/SoloChristo/Lab8#readme",
   "devDependencies": {
-    "babel-jest": "^26.6.3"
+    "@babel/core": "^7.14.3",
+    "@babel/preset-env": "^7.14.2",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
   },
   "dependencies": {
     "fund": "^1.0.0"
